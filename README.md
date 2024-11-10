@@ -5,11 +5,16 @@
 
 
 ## Обо мне   
-Студент МГТУ им.Н.Э.Баумана. Прошел курсы от НТЦ Вулкан по теме прикладная сетевая безопасность. Принимаю участие в различных CTF, решаю задачи на HackTheBox, WebKids, а также изучаю алгоритмы на LeetCode. 
+Студент МГТУ им.Н.Э.Баумана. Прошел курсы от НТЦ Вулкан по теме прикладная сетевая безопасность. Принимаю участие в различных CTF, решаю задачи на HackTheBox, WebKids, а также изучаю алгоритмы на LeetCode.   
+* Знание операционных систем, владение Linux.
+* Знание сетей, tcp/ip, http.   
+* Алгоритмы и структуры данных.   
+* Математическая подготовка.     
+
 
 ## Мой стэк технологий.
 
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=3AAACF"/>  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3AAACF"/>  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Burp Suite-black?style=for-the-badge&logo=burpsuite&logoColor=3AAACF"/>   
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=3AAACF"/>  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3AAACF"/>  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Burp Suite-black?style=for-the-badge&logo=burpsuite&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Multisim-black?style=for-the-badge&logo=multisim&logoColor=3AAACF"/> <img src="https://img.shields.io/badge/Proteus-black?style=for-the-badge&logo=proteus&logoColor=3AAACF"/>   
 
 
 <!--
