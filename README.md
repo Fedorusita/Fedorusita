@@ -2,6 +2,8 @@
 
 # Репозитории
 ### Разбор заданий CTF - https://github.com/Fedorusita/CTF-writeups
+### ML проекты - https://github.com/Fedorusita/ML
+
 
 
 ## Обо мне   
